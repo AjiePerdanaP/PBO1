@@ -32,5 +32,9 @@ public class aksimotor {
        ninja.shock="ride it";
        ninja.merk_ban="zeneos";
        ninja.kapasitas_tangki= 17;
+       
+       revo.mengisi_bensin();
+       klx.mengisi_bensin();
+       ninja.mengisi_bensin();
     }
 }

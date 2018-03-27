@@ -11,6 +11,8 @@ package praktek1;
  */
 public class aksimotor {
     public static void main(String[] args){
-       
+       Motor revo = new Motor();
+       Motor klx = new Motor();
+       Motor ninja = new Motor();
     }
 }

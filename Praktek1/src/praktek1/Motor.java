@@ -20,7 +20,7 @@ public class Motor {
     System.out.println("tahun_pembuatan :"+tahun_pembuatan);
     System.out.println("warna :"+warna);
     System.out.println("shock :"+shock);
-    System.out.println("merk_ban"+merk_ban);
+    System.out.println("merk_ban :"+merk_ban);
     System.out.println("kapasitas_tangki :"+kapasitas_tangki);
             }
     
